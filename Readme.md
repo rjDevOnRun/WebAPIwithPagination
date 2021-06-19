@@ -1,6 +1,6 @@
-# WebAPIwithAuth
+# Web API with Pagination
 
-Web Api with Authorization demo
+Web Api with Pagination demo
 
 ------------------------------------------------------------------------------------------
-My demo app for Web API with authorization
+My demo app for Web API with Pagination
